@@ -40,4 +40,4 @@ class InterruptionChecker:
 
 if __name__ == "__main__":
     ichecker = InterruptionChecker(times=["20:33:00", "20:58:00", "20:57:00"])
-    ichecker.mainloop()
+    ichecker.mainloop() 
